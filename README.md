@@ -22,6 +22,7 @@ Here, i did the selection of the data i will use from different table then did t
 Here, i did the data exploration by checking to see if there are any patterns and relations in the data. Derive new attributes like the revenue that would help answer some of my analysis questions, integrate the data by joining diffrent data frames also format the data where necessary.
 
 ### Data Visualization.
-In this phase, i came up with different visualization models that would help me communicate my finding in a way that is understandable. Some of the models are used are bar plots and scatter plots.
+In this phase, i came up with different visualization models to help me summarize and communicate my finding in a way that is understandable. Some of the models are used are bar plots and scatter plots.
 
-
+### Data Deployment.
+This was the final phase in my analysis. I got to communicate my findings and also provide insights and recommendations.
