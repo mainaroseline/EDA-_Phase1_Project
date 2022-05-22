@@ -10,7 +10,7 @@ Based on this, the objectives of this analysis were:
    2. Finding the top 20 movies that grossed the most revenue
    3. Perform analysis on the Return On Investment(ROI)
    4. Finding which movie genres had the highest ratings
-   5. Finding which movie genres has the highest ROI
+   5. Finding which movie genres has the highest ROI and earned the most revenue
 
 ### Data Understanding.
 In this phase, i identified and collected the data that will be needed in the analysis process and also familiarized myself with the data by identifying the different fields contained in the tables i'll use in my analysis.
